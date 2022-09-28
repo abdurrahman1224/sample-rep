@@ -1,0 +1,54 @@
+.freecode{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 28px;
+    font-style: unset;
+    margin-top: -1%;
+    margin-left: -1%;
+    margin-right: -1%;
+}
+
+.content{
+    padding: 70px;
+    font-size: 30px;
+    text-align:center;
+    font-weight: bold;
+}
+
+.content2{
+    padding: 30px;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.content3{
+    padding: 30px;
+    font-size: 30px;
+    text-align:center;
+    font-weight: bold;
+}
+
+.content4{
+    padding: 30px;
+    font-size: 18px;
+    text-align:center;
+  
+}
+.case{
+    width: 60%;
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: blue;
+}
+.icons{
+    list-style: none;
+    display: flex;
+    margin:  0 auto;
+    text-align: center;
+}
+.apple{
+    width: 100x;
+    height: 100px;
+}
